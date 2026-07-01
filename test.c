@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main(){
-	printf("hellow world");
+	printf("auto build working");
 }
